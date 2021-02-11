@@ -1,0 +1,10 @@
+div#main{
+    position:absolute;
+    top:200px;  width:1300px; height:600px;   left:300px;
+    background-color: rgba(255,255,255,0.5);
+    text-align:center;
+}
+h3{
+    color:crimson;
+    font-size:60px;
+}
